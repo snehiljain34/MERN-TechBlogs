@@ -68,7 +68,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 ## License
-**MIT &copy; [Snehil Jain](https://github.com/snehiljain/MERN-TechBlogs/blob/master/LICENSE)**
+**MIT &copy; [Snehil Jain](https://github.com/snehiljain34/MERN-TechBlogs/blob/master/LICENSE)**
 
 
 ## Support
