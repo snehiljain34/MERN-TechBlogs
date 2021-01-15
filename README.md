@@ -16,7 +16,10 @@ It renders posts from mongoDB and shows in post page. Posts are stored as JSON o
 ###### Back-end : Node  js, Express JS
 ###### Database : Mongo DB
 ###### Front-end : ReactJS, Bootstrap
- 
+
+<img src="https://github.com/snehiljain34/MERN-TechBlogs/blob/master/Screenshot%20(254).png" width="600" height="350" />
+
+
 ## Installation:
   #### Install mongoDB and NodeJS
   #### Clone the repository
